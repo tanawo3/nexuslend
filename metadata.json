@@ -1,0 +1,8 @@
+{
+  "name": "DeFi Lending Protocol",
+  "description": "GenLayer DeFi Lending Protocol application that translates and enforces multi-lingual subjective agreements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

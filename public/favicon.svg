@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <!-- Deep charcoal background -->
+  <rect width="120" height="120" rx="28" fill="#050505" />
+  
+  <!-- Subtle inner border for premium glass feel -->
+  <rect width="116" height="116" x="2" y="2" rx="26" fill="none" stroke="#f4f3ef" stroke-width="1" stroke-opacity="0.1" />
+
+  <!-- Elegant 'N' using sharp, thin geometric lines in muted gold -->
+  <path d="M40 80 V40 L80 80 V40" stroke="#8b7355" stroke-width="4" stroke-linecap="square" stroke-linejoin="miter" fill="none" />
+</svg>
